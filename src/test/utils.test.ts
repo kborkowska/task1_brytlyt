@@ -7,7 +7,7 @@ import {
   someRollsSomeRest,
   someRollsSomeRestTipsMock,
 } from "./tips.mock";
-import { placeInRolls } from "./utils";
+import { placeInRolls } from "../utils";
 
 describe("placeInRolls", () => {
   test("places tips correctly", () => {

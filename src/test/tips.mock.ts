@@ -1,4 +1,4 @@
-import { TipRolls } from "./interfaces";
+import { TipRolls } from "../interfaces";
 
 export const fullTipsMock = [
   5,
