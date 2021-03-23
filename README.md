@@ -1,6 +1,6 @@
 # task1_brytlyt
 
-## Solution to BrytLyt task1. 
+## Solution to BrytLyt task1
 
 Created function placeInRolls placed in 'utils.ts' file.
 
