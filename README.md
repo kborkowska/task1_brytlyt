@@ -2,7 +2,7 @@
 
 ## Solution to BrytLyt task1
 
-Created function placeInRolls placed in 'utils.ts' file.
+Created function ```placeInRolls``` placed in 'utils.ts' file. File 'src/test' contains test suit covering the function.
 
 To run:
 
